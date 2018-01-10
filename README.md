@@ -1,2 +1,2 @@
-# petercaseystudent.github.io
-Web Site on GitHub
+# Peter Casey
+## Getting the hang of Git and loving it!
